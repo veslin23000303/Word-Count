@@ -22,8 +22,8 @@ Close the file pointer and end the program.
 
 ## PROGRAM:
 ```
-Developed by: Antony Abishek K
-Register no: 212223240009
+Developed by: VESLIN ANISH A
+Register no: 212223240175
 ```
 ```py
 num=0
@@ -35,7 +35,8 @@ print("The number of words are in the file is ",num)
 ```
 ### OUTPUT:
 
-![Screenshot 2024-05-08 232739](https://github.com/mercyarulappan/Word-Count/assets/149233730/69ea0391-1e0d-4001-bc0a-52ad44fc1755)
+![Screenshot 2024-05-23 155420](https://github.com/veslin23000303/Word-Count/assets/151148539/85d47d38-b1bd-411b-8c92-ffc5053ff566)
+
 
 
 ## RESULT:
